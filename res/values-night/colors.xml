@@ -33,16 +33,16 @@
     <!-- Color of the status bar above the contextual selection bar. -->
     <color name="contextual_selection_bar_status_bar_color">#424242</color>
 
-    <color name="primary_color_dark">#D8C13D</color>
-    <color name="primary_color">#D8C13D</color>
+    <color name="primary_color_dark">#f1d744</color>
+    <color name="primary_color">#f1d744</color>
 
     <!-- Color of the selected tab underline -->
-    <color name="contacts_accent_color">#D8C13D</color>
+    <color name="contacts_accent_color">#f1d744</color>
 
     <color name="floating_action_button_icon_color">@color/contacts_accent_color</color>
 
     <!-- Horizontal separator line should be 12% dark in the light theme. -->
-    <color name="divider_line_color_light">#D8C13D</color>
+    <color name="divider_line_color_light">#f1d744</color>
 
     <!-- Color of the text on an ExpandingEntryCard button -->
     <color name="expanding_entry_card_button_text_color">#b3ffffff</color>
